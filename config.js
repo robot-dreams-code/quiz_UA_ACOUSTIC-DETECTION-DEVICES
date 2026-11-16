@@ -7,7 +7,7 @@
 window.QUIZ_CONFIG = {
   // ID таблиці з її адреси: https://docs.google.com/spreadsheets/d/<ОСЬ_ЦЕЙ_ID>/edit
   // Таблиця має бути відкрита: «Усі, хто має посилання — Читач».
-  sheetId: "",
+  sheetId: "1o5PB4M8qfZPJIL9khEAhVMIM5KaUDALSlExmtwKEK8c",
 
   // Назви вкладок у таблиці
   tabs: {
